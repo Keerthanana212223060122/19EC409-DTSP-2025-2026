@@ -9,7 +9,7 @@
    PC installed with SCILAB/Python. 
 
 # PROGRAM: 
-```
+```python
 # ==============================
 # AUDIO DFT ANALYSIS IN COLAB
 # ==============================
@@ -103,8 +103,6 @@ Top 10 Dominant Frequencies:
 
 <img width="991" height="744" alt="Screenshot 2025-09-22 154825" src="https://github.com/user-attachments/assets/ceda0395-efd8-4730-8e86-22c3799467d9" />
 <img width="940" height="630" alt="Screenshot 2025-09-22 154832" src="https://github.com/user-attachments/assets/41e6c38c-aa20-4f7e-930a-ee780a930a5c" />
-
-
 
 # RESULTS
  BY USING AUDIO SIGNAL THE DFT IS ANALYSISED USING PYTHON.
